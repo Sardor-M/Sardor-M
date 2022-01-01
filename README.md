@@ -21,7 +21,9 @@
 <img align="left" alt="CSS3" width="34px" src="icons/css-3.png" />
 <img align="left" alt="JavaScript" width="34px" src="icons/js.png" />
 <img align="left" alt="Sass" width="34px" src="icons/sass.png" />
-<img align="left" alt="React" width="34px" src="icons/react.png" /> <br>
+<img align="left" alt="React" width="34px" src="icons/react.png" />
+<img align="left" alt="Python" width="34px" src="icons/python.png" />
+<br>
 
 ### Tools :
 <img align="left" alt="Spyder" width="34px" src="icons/spyder.png">
