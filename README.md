@@ -7,7 +7,7 @@
 **Personal Infos:**
 
 - 🔭 I’m currently working Front-end Development;
-- 🌱 Currently, I am leanring  React Framework and discovering more of its functions and capabilities;
+- 🌱 Currently, I am learning  React Framework and discovering more of its functions and capabilities;
 - 👯 I am open to collaborate on Javascript and React (on Frameworks);
 - ⚡ Fun fact: I love long distance running and cycling;
 - 📫 Reach me: sardor0968@gmail.com 
@@ -45,6 +45,7 @@
   <p>
     <img width="55%" align="top" src="https://github-readme-stats.vercel.app/api?username=Sardor-M&show_icons=true&hide_border=true&&count_private=true&include_all_commits=true&theme=algolia" />
     <img width="40%" align="top" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Sardor-M&exclude_repo=KNN-Image-Classification&show_icons=true&hide_border=true&layout=compact&langs_count=8&theme=algolia"/>
+
   </p>
 </div>
 
