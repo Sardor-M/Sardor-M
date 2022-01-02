@@ -14,7 +14,7 @@ Based in Seoul, South Korea.
 
 - 🔭 I’m currently working on Front-end Development;
 - 🌱 Currently, I am learning  React Framework and discovering more of its functions and capabilities;
-- 👯 I am open to collaborate on Javascript and React (on Frameworks);
+- 👯 I am open to collaborate on Javascript and React;
 - ⚡ Fun fact: I love long distance running and cycling;
 - 📫 Reach me: sardor0968@gmail.com 
 - 🔭 Portfolio: coming soon. 
