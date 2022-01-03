@@ -17,7 +17,7 @@ Based in Seoul, South Korea.
 - 👯 I am open to collaborate on Javascript and React;
 - ⚡ Fun fact: I love long distance running and cycling;
 - 📫 Reach me: sardor0968@gmail.com 
-- 🔭 Portfolio: coming soon. 
+- 🔭 Portfolio: **soon**. 
 
 ##
 
