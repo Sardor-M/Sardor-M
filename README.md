@@ -34,7 +34,6 @@ Based in Seoul, South Korea.
 ### Tools :
 <img align="left" alt="Spyder" width="34px" src="icons/spyder.png">
 <img align="left" alt="Visual Studio Code" width="34px" src="icons/visual-studio.png" />
-<img align="left" alt="Xcode" width="34px" src="icons/xcode.png" />
 <img align="left" alt="Colab" width="34px" src="icons/colab.png" />
 <img align="left" alt="Git" width="34px" src="icons/git.png" />
 <img align="left" alt="Node JS" width="34px" src="icons/node.png" />
