@@ -1,5 +1,5 @@
 ### Hi there, I am Sardor <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px"> 
-I am Sardor Madaminov, a **Front-end Developer**, currently an undergraduate student enrolled in SeoulTech University.
+I am Sardor Madaminov, a **Front-end Developer**, currently an undergraduate student enrolled in SeoulTech.
 <br>
 <br>
 Based in Seoul, South Korea.
