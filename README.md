@@ -28,6 +28,7 @@ Based in Seoul, South Korea.
 <img align="left" alt="JavaScript" width="34px" src="icons/js.png" />
 <img align="left" alt="Sass" width="34px" src="icons/sass.png" />
 <img align="left" alt="React" width="34px" src="icons/react.png" />
+<img align="left" alt="GraphQL" width="34px" src="icons/graphQl.png" />
 
 <br>
 
