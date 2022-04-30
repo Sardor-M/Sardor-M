@@ -1,5 +1,5 @@
-### Hi there, I am Sardor <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px"> 
-I am Sardor Madaminov, a **Front-end Developer**, currently an undergraduate student.
+### Sardor <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px"> 
+**Front-end Developer**, currently an undergraduate student.
 <br>
 <br>
 Based in Seoul, South Korea.
@@ -12,12 +12,12 @@ Based in Seoul, South Korea.
 
 **Personal Infos:**
 
-- 🔭 I’m currently working on Front-end Development;
-- 🌱 Currently, I am learning  React Framework and discovering more of its functions and capabilities;
-- 👯 I am open to collaborate on Javascript and React;
-- ⚡ Fun fact: I love long distance running and cycling;
-- 📫 Reach me: sardor0968@gmail.com 
-- 🔭 Portfolio: **soon**. 
+-  I’m currently working on **`Front-end Development `**;
+-  Currently, I have a hands-on experience in **`React JS`**;
+-  I am open to collaborate on `React Projects`;
+-  Fun fact: I love `long distance running and cycling `;
+-  Reach me: **`sardor0968@gmail.com`;
+-  Portfolio: **will be added soon**.
 
 ##
 
@@ -33,6 +33,7 @@ Based in Seoul, South Korea.
 <br>
 
 ### Tools :
+
 <img align="left" alt="Spyder" width="34px" src="icons/spyder.png">
 <img align="left" alt="Visual Studio Code" width="34px" src="icons/visual-studio.png" />
 <img align="left" alt="Colab" width="34px" src="icons/colab.png" />
