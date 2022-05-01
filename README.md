@@ -13,10 +13,10 @@ Based in Seoul, South Korea.
 **Personal Infos:**
 
 -  I’m currently working on **`Front-end Development `**;
--  Currently, I have a hands-on experience in **`React JS`**;
--  I am open to collaborate on `React Projects`;
+-  I have a hands-on experience in **`React JS`**;
+-  Currently, I am open to collaborate on `React Projects`;
 -  Fun fact: I love `long distance running and cycling `;
--  Reach me: **`sardor0968@gmail.com`;
+-  Reach me: **`sardor0968@gmail.com`**;
 -  Portfolio: **will be added soon**.
 
 ##
