@@ -5,8 +5,8 @@
 Based in Seoul, South Korea.
 <br>
 <br>
-[![Instagram Badge](https://img.shields.io/badge/-Instagram-e4405f?style=flat-square&logo=Instagram&logoColor=white)](https://instagram.com/srd_0t/)
-[![Linkedin Badge](https://img.shields.io/badge/LinkedIn-0077B5?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/sardorbekmadaminov-44987a1a7/)
+[![Instagram Badge](https://img.shields.io/badge/-Instagram-e4405f?style=square&logo=Instagram&logoColor=black)](https://instagram.com/srd_0t/)
+[![Linkedin Badge](https://img.shields.io/badge/LinkedIn-0077B5?style=square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/sardorbekmadaminov-44987a1a7/)
 [![](https://visitor-badge.glitch.me/badge?page_id=Sardor-Madaminov.Sardor-Madaminov)]()
 ## 
 
