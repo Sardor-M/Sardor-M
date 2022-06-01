@@ -1,4 +1,4 @@
-### Sardor <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px"> 
+### Sardor
 **Front-end Developer**, currently an undergraduate student.
 <br>
 <br>
