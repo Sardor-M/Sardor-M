@@ -49,7 +49,7 @@ Based in Seoul, South Korea.
 
 <div display="flex">
   <p>
-    <img width="55%" align="top" src="https://github-readme-stats.vercel.app/api?username=Sardor-M&show_icons=true&hide_border=true&&count_private=true&include_all_commits=true&theme=dark" />
+    <img width="55%" align="top" src="https://github-readme-stats.vercel.app/api?username=Sardor-M&show_icons=true&hide_border=true&&count_private=true&include_all_commits=false&theme=dark" />
     <img width="40%" align="top" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Sardor-M&exclude_repo=KNN-Image-Classification&show_icons=true&hide_border=true&layout=compact&langs_count=8&theme=dark"/>
 
   </p>
