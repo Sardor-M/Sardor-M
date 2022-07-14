@@ -7,6 +7,9 @@
 Based in Seoul, South Korea.
 <br>
 <br>
+**How to find me:** 
+<br> 
+<br>
 <a href="linkedin.com/in/sardorbekmadaminov-44987a1a7" target="_blank"><img alt="LinkedIn" src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" height=25></a>
 <a href="https://medium.com/@sardor0968" target="_blank"><img alt="Medium" src="https://img.shields.io/badge/medium-%2312100E.svg?&style=for-the-badge&logo=medium&logoColor=white" height=25 /></a>
 <a href="https://instagram.com/srd_0t/"><img src="https://img.shields.io/badge/instagram-%23E4405F.svg?&style=for-the-badge&logo=instagram&logoColor=white" height=25></a>
@@ -33,6 +36,7 @@ Based in Seoul, South Korea.
 <a href="#"><img alt="GraphQL" src="https://img.shields.io/badge/-GraphQL-E10098?style=flat-square&logo=graphql&logoColor=white"></a>
 <a href="#"><img alt="MongoDB" src ="https://img.shields.io/badge/MongoDB-4ea94b.svg?logo=mongodb&logoColor=white"></a>
 <img alt="Webpack" src="https://img.shields.io/badge/-Webpack-8DD6F9?style=flat-square&logo=webpack&logoColor=white" /> 
+
 <br>
 
 **Tools I use:**
