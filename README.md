@@ -23,8 +23,7 @@ Based in Seoul, South Korea.
 -  I have a hands-on experience in **`React JS`**;
 -  Currently, I am open to collaborate on **`React Projects`**;
 -  Fun fact: I love **`long distance running and cycling`**;
--  Reach me: **`sardor0968@gmail.com`**;
--  Portfolio: `will be added soon`.
+-  Portfolio: `soon`.
 ##
 **Languages and Database I use:**
 
