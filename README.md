@@ -8,4 +8,4 @@
 - `MongoDB, GraphQL` 
 
 **Tools I use:**
-- `Github, Postman, Swagger, Jira, VC code, Storybook`
+- `Github, Postman, Swagger, Jira, VC code`
