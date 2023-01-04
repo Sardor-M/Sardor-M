@@ -1,3 +1,6 @@
+[![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2FSardor-M%2Fhit-counter&count_bg=%230A10E8&title_bg=%23575854&icon=figshare.svg&icon_color=%2380F305&title=hits&edge_flat=false)](https://hits.seeyoufarm.com)
+
+
 ## Sardor 
 - Based in Seoul, South Korea.
 
