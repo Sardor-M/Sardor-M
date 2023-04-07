@@ -1,14 +1,14 @@
-
-[![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2FSardor-M%2Fhit-counter&count_bg=%23BA0410&title_bg=%23254BFF&icon=cliqz.svg&icon_color=%23E7E7E7&title=hits&edge_flat=false)](https://hits.seeyoufarm.com)
+[![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2FSardor-M%2Fhit-counter&count_bg=%230130C6&title_bg=%23C90012&icon=buzzfeed.svg&icon_color=%23E7E7E7&title=hits&edge_flat=true)](https://hits.seeyoufarm.com)
 
 
 ## Sardor 
 - Based in Seoul, South Korea.
 
 **Languages / Tools**
-- **<i>Web</i>**: JavaScript, TypeScript, Html, Sass, React js, Webpack,  
+- **<i>Web</i>**: JavaScript,React js, TypeScript, Html, Tailwind, Webpack,  
 - **<i>Backend</i>**: Java, Spring Boot, Node js, Express js, Next js
-- **<i>Database</i>**: PostgreSQL, MongoDB 
+- **<i>Database</i>**: PostgreSQL, MongoDB,
+
 
 #### Link 
 <a href="https://sardor-m.notion.site/ad6a8b424ec347da913e7ec48db8c8a2"><img src="https://img.shields.io/badge/Resume-000000?style=flat-square&logo=Notion&logoColor=white&link=https://sardor-m.notion.site/ad6a8b424ec347da913e7ec48db8c8a2"/></a>&nbsp;
