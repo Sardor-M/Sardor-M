@@ -5,9 +5,9 @@
 - Based in Seoul, South Korea.
 
 **Languages / Tools**
-- **<i>Web</i>**: JavaScript,React js, TypeScript, Html, Tailwind, Webpack,  
-- **<i>Backend</i>**: Java, Spring Boot, Node js, Express js, Next js
-- **<i>Database</i>**: PostgreSQL, MongoDB,
+- **<i>Web</i>**: JavaScript, React js, TypeScript, Html, Css, Tailwind, Webpack 
+- **<i>Backend</i>**:  Node js, Next js, Java, Spring Boot
+- **<i>Database</i>**: MySql, PostgreSQL, MongoDB
 
 
 #### Link 
