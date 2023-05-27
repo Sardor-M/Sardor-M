@@ -4,13 +4,19 @@
 ## Sardor 
 - Based in Seoul, South Korea.
 
-**Languages / Tools**
-- **<i>Web</i>**: JavaScript, React js, TypeScript, Html, Css, Tailwind, Webpack 
-- **<i>Backend</i>**:  Node js, Next js, Java, Spring Boot
-- **<i>Database</i>**: MySql, PostgreSQL, MongoDB
+**Skills:** 
 
 
-#### Link 
+[![JavaScript](https://img.shields.io/badge/Javascript-%23323330?style=flat-square&logo=javascript&logoColor=%23F7DF1E)]()
+[![React](https://img.shields.io/badge/React-%2300599C.svg?style=flat-square&logo=react&logoColor=%2361DAFB)]()
+[![Next JS](https://img.shields.io/badge/Next-black?style=flat-square&logo=next.js&logoColor=white)]()
+[![Python Badge](https://img.shields.io/badge/-Python-3776AB?style=flat-square&logo=Python&logoColor=white)]()
+[![AWS](https://img.shields.io/badge/AWS-%23FF9900.svg?style=flat-square&logo=amazon-aws&logoColor=white)]()
+[![TypeScript](https://img.shields.io/badge/Typescript-%23007ACC.svg?style=flat-square&logo=typescript&logoColor=white)]()
+[![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=flat-square&logo=mongodb&logoColor=white)]()
+[![MySQL](https://img.shields.io/badge/MySQL-008CC1?style=flat-square&logo=mysql&logoColor=white)]()
+
+#### Link: 
 <a href="https://sardor-m.notion.site/ad6a8b424ec347da913e7ec48db8c8a2"><img src="https://img.shields.io/badge/Resume-000000?style=flat-square&logo=Notion&logoColor=white&link=https://sardor-m.notion.site/ad6a8b424ec347da913e7ec48db8c8a2"/></a>&nbsp;
 <a href="mailto:sardor0968@gmail.com"><img src="https://img.shields.io/badge/sardor0968@gmail.com-d14836?style=flat-square&logo=Gmail&logoColor=white&link=mailto:sardor0968@gmail.com"/></a>
 
