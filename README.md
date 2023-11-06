@@ -10,7 +10,6 @@
 [![JavaScript](https://img.shields.io/badge/Javascript-%23323330?style=flat-square&logo=javascript&logoColor=%23F7DF1E)]()
 [![React](https://img.shields.io/badge/React-%2300599C.svg?style=flat-square&logo=react&logoColor=%2361DAFB)]()
 [![Next JS](https://img.shields.io/badge/Next-black?style=flat-square&logo=next.js&logoColor=white)]()
-[![Python Badge](https://img.shields.io/badge/-Python-3776AB?style=flat-square&logo=Python&logoColor=white)]()
 [![AWS](https://img.shields.io/badge/AWS-%23FF9900.svg?style=flat-square&logo=amazon-aws&logoColor=white)]()
 [![TypeScript](https://img.shields.io/badge/Typescript-%23007ACC.svg?style=flat-square&logo=typescript&logoColor=white)]()
 [![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=flat-square&logo=mongodb&logoColor=white)]()
