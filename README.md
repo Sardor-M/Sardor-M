@@ -12,7 +12,6 @@
 [![Next JS](https://img.shields.io/badge/Next-black?style=flat-square&logo=next.js&logoColor=white)]()
 [![AWS](https://img.shields.io/badge/AWS-%23FF9900.svg?style=flat-square&logo=amazon-aws&logoColor=white)]()
 [![TypeScript](https://img.shields.io/badge/Typescript-%23007ACC.svg?style=flat-square&logo=typescript&logoColor=white)]()
-[![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=flat-square&logo=mongodb&logoColor=white)]()
 [![MySQL](https://img.shields.io/badge/MySQL-008CC1?style=flat-square&logo=mysql&logoColor=white)]()
 
 #### Contact: 
