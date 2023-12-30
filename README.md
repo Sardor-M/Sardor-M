@@ -17,7 +17,7 @@
 
 **Interested in**: 
 
-- Etherum using Rust language 
+- Ethereum using Rust language 
 
 
 [![GitHub Streak](https://streak-stats.demolab.com?user=Sardor-M&mode=weekly)](https://git.io/streak-stats)
