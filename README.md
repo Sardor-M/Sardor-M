@@ -1,7 +1,7 @@
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=sardor-m&label=Profile%20views&color=0e75b6&style=flat" alt="sardor-m" /> </p>
-
-### 🛠 Languages I Use:
-- JavaScript, TypeScript, Java, SQL, C++
-
-### 💻 Tech I Use: 
-- Node.js, React.js, Styled-Components, Tailwind CSS, Next.js, Express.js, Spring Boot, MySQL, PostgreSQL
+<div align="center">
+  <picture>
+    <source width="60" height="60" media="(prefers-color-scheme: dark)" srcset="https://github.githubassets.com/images/mona-loading-dark.gif">
+    <source width="60" height="60" media="(prefers-color-scheme: light)" srcset="https://github.githubassets.com/images/mona-loading-default.gif">
+    <img width="60" height="60" alt="Running Mona, the Octocat" src="https://github.githubassets.com/images/mona-loading-default.gif">
+  </picture>
+</div>
